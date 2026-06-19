@@ -1,4 +1,4 @@
-# House Price Prediction Analysis — Week 1 Internship Project
+# House Price Prediction Analysis
 
 This repository contains the deliverables for the **House Price Prediction** regression modeling project, completed during Week 1 of the data science internship at XYlofy.
 
